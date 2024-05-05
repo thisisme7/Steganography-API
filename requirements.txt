@@ -1,5 +1,4 @@
 flask
 pillow
 gunicorn
-gunicorn
 Werkzeug
